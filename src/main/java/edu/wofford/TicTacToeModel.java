@@ -23,7 +23,7 @@ public class TicTacToeModel {
     }
     
     public String toString() {
-        return "";
+        return "7";
     }    
 
 }
